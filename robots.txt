@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Disallow: /as_15/
+Sitemap: http://www.as-seen-on-tv-coupons.com/sitemap.xml 

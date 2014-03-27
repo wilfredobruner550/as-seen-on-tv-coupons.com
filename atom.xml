@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[As Seen on TV Coupons Blog]]></title>
+  <link href="http://www.as-seen-on-tv-coupons.com/atom.xml" rel="self"/>
+  <link href="http://www.as-seen-on-tv-coupons.com/"/>
+  <updated>2014-03-27T11:17:27+00:00</updated>
+  <id>http://www.as-seen-on-tv-coupons.com/</id>
+  <author>
+    <name><![CDATA[Wilfredo Bruner]]></name>
+    
+  </author>
+
+  
+</feed>
